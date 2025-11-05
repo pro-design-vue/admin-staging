@@ -1,0 +1,1 @@
+import{P as a}from"./index-BC5YdhXz.js";import{a5 as t}from"./basic-DPLkRET1.js";import{d as e,b5 as s,b6 as n,a4 as c}from"./index-D-Jf5xXe.js";import"./load-8uZvoxc4.js";import"./index-w5FiZFfW.js";const k=e({__name:"forbidden",setup(p){const o=t(),r=()=>{o.push("/")};return(m,u)=>(n(),s(c(a),{status:"403",onBack:r}))}});export{k as default};
